@@ -1,6 +1,6 @@
 
 
-# Egg Timer
+# Magic Paper
 
 ## Our Goal
 
