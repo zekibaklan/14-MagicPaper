@@ -1,0 +1,26 @@
+{
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "resources" : [
+    {
+      "filename" : "adam1.arreferenceimage"
+    },
+    {
+      "filename" : "adam2.arreferenceimage"
+    },
+    {
+      "filename" : "adamlar1.arreferenceimage"
+    },
+    {
+      "filename" : "adamlar2.arreferenceimage"
+    },
+    {
+      "filename" : "harrypotter.arreferenceimage"
+    },
+    {
+      "filename" : "kule1.arreferenceimage"
+    }
+  ]
+}
