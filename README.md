@@ -21,7 +21,7 @@ You’ll be building a beautiful egg timer app to boil your eggs to perfection d
 
 
 
->This is a companion project to The App Brewery's Complete App Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
+![banner resmi](https://r.resimlink.com/Uqkcmv5d.png)
 
 
 
