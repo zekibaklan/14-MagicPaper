@@ -3,14 +3,14 @@
 # Magic Paper
 
 ## What i used 
-* Swift Collection types - Dictionaries
-* The Swift Timer API
-* Conditional statements - IF/ELSE
-* Conditional statements - Switch
+
+* The Swift ARKit
 * Functions with outputs
-* How to use the ProgressView
-
-
+* Photo detection in 3D virtual environment
+* Play video in 3D environment
+* Overlaying virtual objects on real world objects.
+* Writing coordinates of the object in 3D virtual environment
+* Making the object rotate in a 3D virtual environment
 
 ![banner resmi](https://r.resimlink.com/Uqkcmv5d.png)
 
